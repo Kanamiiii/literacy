@@ -1,4 +1,4 @@
-p {color:red}
-p class {color:green}
-p id {color:blue}
+p{color:red}
+p.foo{color:green}
+#bar{color:blue}
 
